@@ -1,6 +1,4 @@
 # Real-Time Kubernetes Deployment Using Jenkins
-## **Real Time DevOps Project | Deploy to Kubernetes Using Jenkins | End to End DevOps Project | CI/CD**
-
 ## **Project Overview -**
 
 ![Image description](https://res.cloudinary.com/practicaldev/image/fetch/s--FOFeO317--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1u01v021w2q2onpkbt2b.png)
